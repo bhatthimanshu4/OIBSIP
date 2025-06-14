@@ -1,6 +1,6 @@
 <h2>Todo-Task</h2>
 <span>Link</span>
-<h4>oibsip-himanshu-bhatts-projects-93fc3afb.vercel.app/</h4>
+<h4>oibsip-himanshu-bhatts-projects-93fc3afb.vercel.app</h4>
 
 
 
